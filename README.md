@@ -55,6 +55,6 @@ Pizza Sales Analysis has a comprehensive year's worth of sales data from a ficti
 
 
 ## Author
-- <b>[LinkedIn](https://www.linkedin.com/in/mohd-shakeel-02706729/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/shakeelin)</b> 
+- <b>[LinkedIn](https://www.linkedin.com/in/mohammad-shakeel-02706729/)</b>
+- <b>[Kaggle](https://www.kaggle.com/shakeelin)</b> 
 
