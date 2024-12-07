@@ -52,6 +52,10 @@ Pizza Sales Analysis has a comprehensive year's worth of sales data from a ficti
 ## [Project 6: Financial Analysis Dashboard]
 ##### Preview
 
+## [Project 7: Healthcare Analytics]
+##### Preview
+https://app.powerbi.com/reportEmbed?reportId=0eaffd1a-152e-48f5-b906-061c24cc326d&appId=f9fd3b38-bcb8-4b6b-84d0-7537b00d22b9&autoAuth=true&ctid=0b0f2596-c6dc-4c8c-9de8-51a3d803eea4
+
 
 
 ## Author
